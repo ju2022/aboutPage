@@ -1,0 +1,28 @@
+* {
+    font-family: 'Baloo Bhaijaan 2', verdana, sans-serif;
+    box-sizing: border-box;
+    margin:0px;
+    padding:0px;
+}
+.container .turquoise{
+    color:rgb(0, 180, 150);
+}
+#julien{
+    background-color:rgb(0, 180, 150);
+}
+.list-inline-item{
+    color:rgb(0, 180, 150);
+}
+.modal-body{
+    background-color:rgb(0, 180, 150);
+}
+.fondTurquoise{
+    background-color:rgb(0, 180, 150);
+    color:white;
+    text-align: center;
+}
+#fondTurquoise{
+    background-color:rgb(0, 180, 150);
+    color:white;
+    text-align: center;
+}
